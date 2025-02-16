@@ -1,4 +1,4 @@
-![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)
+![Header](https://github.com/jay240322/jay240322/blob/e63724e7b67ae98aade9dc5c3262790d675aa875/20250216_092755.jpg)
 
 ##### Hi, I'm Jay:
 
