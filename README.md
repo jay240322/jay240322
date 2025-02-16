@@ -2,7 +2,7 @@
 
 ##### Hi, I'm Jay:
 
-- 🎓Currently studying b.c.a in lokmanya collage of gujarat university
+- 🎓Currently studying b.c.a in lokmanya collage from Ahmedabad , gujarat university
 - :test_tube: trying to acheive big
 - 🪐 trying to get opportunity
 - :speech_balloon: If you have opportunity for me then
