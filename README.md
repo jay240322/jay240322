@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![DSA Badge](https://img.shields.io/badge/DSA-007bff)
+![DSABadge](https://img.shields.io/badge/DSA-007bff)
 
 ##### Some of the technologies I have worked with
 
