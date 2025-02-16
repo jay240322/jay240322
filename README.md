@@ -42,5 +42,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ##### You can also check some mini websites thich i uploade in github
 
  Tic-Tac-Toe Game ( https://jay240322.github.io/TIC-TAC-TOE./ )
+
+   ```bash
+   git clone [https://github.com/jay240322/calendar.git](https://www.google.com/search?q=https://github.com/jay240322/calendar.git)
  
  Live clock ( https://jay240322.github.io/live-clock/ )
