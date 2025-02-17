@@ -44,7 +44,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
  Tic-Tac-Toe Game
 ( https://jay240322.github.io/TIC-TAC-TOE./ )
-  
+  ![Tic-tac-toeBadge](https://img.shields.io/badge/DSA-007bff)
  
  Live clock
  ( https://jay240322.github.io/live-clock/ )
