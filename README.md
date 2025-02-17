@@ -41,7 +41,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 
 ##### You can also check some mini websites thich i uploade in github
-```
+
  Tic-Tac-Toe Game
 ( https://jay240322.github.io/TIC-TAC-TOE./ )
   ![Tic-tac-toeBadge](https://img.shields.io/badge/DSA-007bff)
