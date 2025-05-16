@@ -40,10 +40,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-##### You can also check some mini webpages which i uploade in github
-
- Tic-Tac-Toe Game
-(https://jay240322.github.io/TIC-TAC-TOE./)
- 
- Live clock
- ( https://jay240322.github.io/Live-clock/ )
