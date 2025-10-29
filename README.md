@@ -21,6 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 ![DSA](https://img.shields.io/badge/DSA-222222?style=flat)
+![PHP](https://img.shields.io/badge/php-222222?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/python-222222?style=fflat&logo=python&logoColor=ffdd54)
 
 ##### Some of the technologies I have worked with
 
