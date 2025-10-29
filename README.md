@@ -14,13 +14,13 @@
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![DSA](https://img.shields.io/badge/DSA-007bff)
+![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
+![DSA](https://img.shields.io/badge/DSA-222222?style=flat)
 
 ##### Some of the technologies I have worked with
 
@@ -31,7 +31,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-222222?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-222222?style=flat&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-222222?style=flat&logo=express&logoColor=%2361DAFB)
+![Express js](https://img.shields.io/badge/express.js-222222?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat&logo=Mongodb&logoColor=green)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
