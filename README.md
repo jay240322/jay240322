@@ -26,12 +26,12 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Django](https://img.shields.io/badge/django-222222?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-222222?style=flat&logo=django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![NodeJS](https://img.shields.io/badge/node.js-222222?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-222222?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-222222?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-222222?style=flat&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-222222?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat&logo=Mongodb&logoColor=green)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
