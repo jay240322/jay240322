@@ -1,4 +1,4 @@
-![Header](https://github.com/jay240322/jay240322/blob/e63724e7b67ae98aade9dc5c3262790d675aa875/20250216_092755.jpg)
+![Header](https://github.com/user-attachments/assets/87c84634-58ee-4908-aee2-50c0863d2158)
 
 ##### Hi, I'm Jay:
 
