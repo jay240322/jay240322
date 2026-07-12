@@ -1,48 +1,45 @@
 ![Header](https://github.com/user-attachments/assets/87c84634-58ee-4908-aee2-50c0863d2158)
 
-##### Hi, I'm Jay:
 
-- 🎓Currently studying b.c.a in gujarat university , Ahmedabad 
-- :test_tube: trying to achieve big
-- 🪐 trying to get opportunity
-- :speech_balloon: If you have opportunity for me then
-- :mailbox: You can reach me with the links below
+##### &nbsp;&nbsp;&nbsp;[Gmail](mailto:jaypatel0j@gmail.com)<img width="400"> [LinkedIn](www.linkedin.com/in/jayp01)<img width="410"/> [Portfolio](www.jaypatel.online)
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jay240322)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.jay.brij03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-28391a308)
+---
+## About
+##### More in Cloud , Automation , security , dev
 
-##### Languages I use
+---
 
-![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
-![DSA](https://img.shields.io/badge/DSA-222222?style=flat)
-![PHP](https://img.shields.io/badge/php-222222?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-222222?style=fflat&logo=python&logoColor=ffdd54)
+## Works
+### [ci-cd-sandbox](https://github.com/jay240322/cicd-sandbox.git) :
+*  CI/CD Sandbox is a hands-on DevOps project created to demonstrate and experiment with modern Continuous Integration and Continuous Deployment (CI/CD) practices. The repository serves as a testing environment for building automated pipelines that streamline the software delivery lifecycle—from code commits to deployment.
 
-##### Some of the technologies I have worked with
+####
+  
+### [CRICZONE](https://github.com/jay240322/Criczone.git)  :
+*  CricZone is a modern, full-stack cricket platform built with the MERN stack that delivers live cricket scores, match schedules, player statistics, team information, and the latest cricket news through a clean and responsive interface. It provides cricket enthusiasts with a seamless experience to follow ongoing matches, explore upcoming fixtures, analyze past results, and stay updated with real-time cricket events.
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Django](https://img.shields.io/badge/django-222222?style=flat&logo=django&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![NodeJS](https://img.shields.io/badge/node.js-222222?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-222222?style=flat&logo=next.js&logoColor=white)
-![Express js](https://img.shields.io/badge/express.js-222222?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat&logo=Mongodb&logoColor=green)
+####
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
+### [Notebook](https://github.com/jay240322/Notebook.git) :
+*  It is a modern, responsive note-taking web application designed to help users capture, organize, and manage their notes efficiently. It provides an intuitive interface for creating, editing, deleting, and searching notes, making it easy to keep personal ideas, tasks, and important information organized in one place.
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+###
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
+### [Devspace](https://github.com/jay240322/Devspace.git) :
+
+
+---
+
+## Stack
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | JavaScript, TypeScript, Python, Go, Bash |
+| **Frameworks** | React.js, Next.js, Node.js, Express.js, Django, Flask |
+| **DevOps & Security** | AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Argo CD, Ansible, Nginx |
+| **Databases** | MongoDB, PostgreSQL, SQLite |
+
+---
+
+### Connect Me 
+
 
