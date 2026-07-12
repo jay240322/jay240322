@@ -1,7 +1,7 @@
 ![Header](https://github.com/user-attachments/assets/87c84634-58ee-4908-aee2-50c0863d2158)
 
 
-##### &nbsp;&nbsp;&nbsp;[Gmail](mailto:jaypatel0j@gmail.com)<img width="350"> [LinkedIn](www.linkedin.com/in/jayp01)<img width="360"/>[Portfolio](www.jaypatel.online)
+##### &nbsp;&nbsp;&nbsp;[Gmail](mailto:jaypatel0j@gmail.com)<img width="350"> [LinkedIn](www.linkedin.com/in/jayp01)<img width="340"/>[Portfolio](www.jaypatel.online)
 
 ---
 ## About
