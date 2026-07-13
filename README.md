@@ -45,19 +45,19 @@
 ------
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/jayp01">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/Jay_patel_2107">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://dev.to/YOUR_USERNAME">
+  <a href="https://dev.to/jay_patel">
     <img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV">
   </a>
-  <a href="https://medium.com/@YOUR_USERNAME">
+  <a href="https://medium.com/@JayPatel_1">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://hashnode.com/@YOUR_USERNAME">
+  <a href="https://hashnode.com/@joyy">
     <img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
 </p>
