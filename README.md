@@ -13,6 +13,12 @@
 ---
 
 ## Works
+
+### [Devspace](https://github.com/jay240322/Devspace.git) :
+* Devspace is an interactive, Go-based CLI tool that automates production-grade application scaffolding. Through type-safe terminal prompts, it instantly generates optimized frontend or backend folder structures, multi-stage Dockerfiles, and Kubernetes deployment manifests—unifying framework setup, containerization, and cluster deployment into a single, error-free workflow.
+
+####
+
 ### [ci-cd-sandbox](https://github.com/jay240322/cicd-sandbox.git) :
 *  CI/CD Sandbox is a hands-on DevOps project created to demonstrate and experiment with modern Continuous Integration and Continuous Deployment (CI/CD) practices. The repository serves as a testing environment for building automated pipelines that streamline the software delivery lifecycle—from code commits to deployment.
 
@@ -25,11 +31,6 @@
 
 ### [Notebook](https://github.com/jay240322/Notebook.git) :
 *  It is a modern, responsive note-taking web application designed to help users capture, organize, and manage their notes efficiently. It provides an intuitive interface for creating, editing, deleting, and searching notes, making it easy to keep personal ideas, tasks, and important information organized in one place.
-
-###
-
-### [Devspace](https://github.com/jay240322/Devspace.git) :
-* Devspace is an interactive, Go-based CLI tool that automates production-grade application scaffolding. Through type-safe terminal prompts, it instantly generates optimized frontend or backend folder structures, multi-stage Dockerfiles, and Kubernetes deployment manifests—unifying framework setup, containerization, and cluster deployment into a single, error-free workflow.
 
 ---
 
