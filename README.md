@@ -1,7 +1,10 @@
 ![Header](https://github.com/user-attachments/assets/87c84634-58ee-4908-aee2-50c0863d2158)
 
-
-##### &nbsp;&nbsp;&nbsp;[Gmail](mailto:jaypatel0j@gmail.com)<img width="350"> [LinkedIn](www.linkedin.com/in/jayp01)<img width="340"/>[Portfolio](www.jaypatel.online)
+<p align="center">
+  <a href="mailto:jaypatel0j@gmail.com">Gmail</a> • 
+  <a href="https://www.linkedin.com/in/jayp01">LinkedIn</a> • 
+  <a href="https://www.jaypatel.online">Portfolio</a>
+</p>
 
 ---
 ## About
@@ -26,7 +29,7 @@
 ###
 
 ### [Devspace](https://github.com/jay240322/Devspace.git) :
-* Devspace is an interactive command-line interface engine built in Go that automates the initialization of modern, production-grade applications. Instead of manually writing boilerplates, developers use its type-safe terminal prompts to instantly scaffold complete frontend or backend folder architectures. Beyond basic source code setups, the tool automatically injects optimized, multi-stage Docker configurations and production-ready Kubernetes deployment manifests. By unifying language frameworks, containerization, and cluster deployment into a single, one-click interface, Devspace removes setup errors and accelerates full-stack workflows.
+* Devspace is an interactive, Go-based CLI tool that automates production-grade application scaffolding. Through type-safe terminal prompts, it instantly generates optimized frontend or backend folder structures, multi-stage Dockerfiles, and Kubernetes deployment manifests—unifying framework setup, containerization, and cluster deployment into a single, error-free workflow.
 
 ---
 
