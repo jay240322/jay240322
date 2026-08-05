@@ -19,6 +19,9 @@
 
 ####
 
+### [KubeSense](https://github.com/jay240322/KubeSense.git) :
+*   Developed an AI-powered Kubernetes diagnostic tool using Google Gemini LLM to analyze cluster errors and deliver automated root-cause analysis with actionable remediation steps. Built an interactive web dashboard for real-time diagnostic visualization, accelerating cluster issue identification and reducing troubleshooting overhead for DevOps workflows.
+
 ### [ci-cd-sandbox](https://github.com/jay240322/cicd-sandbox.git) :
 *  CI/CD Sandbox is a hands-on DevOps project created to demonstrate and experiment with modern Continuous Integration and Continuous Deployment (CI/CD) practices. The repository serves as a testing environment for building automated pipelines that streamline the software delivery lifecycle—from code commits to deployment.
 
