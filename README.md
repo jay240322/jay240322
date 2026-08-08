@@ -47,8 +47,8 @@
 
 ---
 
-## Connect Me 
-#### If you have any questions, security problems and any automation ideas let's connect!
+## <p align="center">Connect Me</p> 
+#### <p align="center">If you have any questions, security problems and any automation ideas let's connect!</p>
 ------
 
 <p align="center">
