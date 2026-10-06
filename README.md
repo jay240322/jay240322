@@ -26,6 +26,11 @@
 *  CI/CD Sandbox is a hands-on DevOps project created to demonstrate and experiment with modern Continuous Integration and Continuous Deployment (CI/CD) practices. The repository serves as a testing environment for building automated pipelines that streamline the software delivery lifecycle—from code commits to deployment.
 
 ####
+
+### [ Deploy-Guard ](https://github.com/jay240322/Deploy-Guard.git) :
+* Deploy-Guard is serves as a pre-deployment defense system designed to inspect source repositories for sensitive credentials and visualize complex CI/CD workflows.
+
+####
   
 ### [CRICZONE](https://github.com/jay240322/Criczone.git)  :
 *  CricZone is a modern, full-stack cricket platform built with the MERN stack that delivers live cricket scores, match schedules, player statistics, team information, and the latest cricket news through a clean and responsive interface. It provides cricket enthusiasts with a seamless experience to follow ongoing matches, explore upcoming fixtures, analyze past results, and stay updated with real-time cricket events.
