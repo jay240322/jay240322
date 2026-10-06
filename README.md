@@ -28,7 +28,7 @@
 ####
 
 ### [ Deploy-Guard ](https://github.com/jay240322/Deploy-Guard.git) :
-* Deploy-Guard is serves as a pre-deployment defense system designed to inspect source repositories for sensitive credentials and visualize complex CI/CD workflows.
+* Deploy-Guard is a pre-deployment defense system designed to inspect source repositories for sensitive credentials and visualize complex CI/CD workflows, Integrated automated security policy gates and alerting to catch pipeline misconfigurations early, reducing release vulnerabilities and deployment risks.
 
 ####
   
