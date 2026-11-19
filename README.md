@@ -14,13 +14,20 @@
 
 ## Works
 
+###  [Secura](https://github.com/jay240322/Secura-security-scanning.git) :
+*  An autonomous pre-merge security gate and GitHub App [secura-security-scanner](https://github.com/apps/secura-security-scanner) that inspects pull request diffs in-memory to block exposed API keys, cloud credentials, and private certificates before merge. Powered by Tree-Sitter AST parsing and Shannon entropy filtering across 100+ secret signatures, it delivers sub-50ms scans with zero source code retention and 99.4% fewer false positives.
+
+###
+
+### [KubeSense](https://github.com/jay240322/KubeSense.git) :
+*   Developed an AI-powered Kubernetes diagnostic tool using Google Gemini LLM to analyze cluster errors and deliver automated root-cause analysis with actionable remediation steps. Built an interactive web dashboard for real-time diagnostic visualization, accelerating cluster issue identification and reducing troubleshooting overhead for DevOps workflows.
+
+###
+
 ### [Devspace](https://github.com/jay240322/Devspace.git) :
 * Devspace is an interactive, Go-based CLI tool that automates production-grade application scaffolding. Through type-safe terminal prompts, it instantly generates optimized frontend or backend folder structures, multi-stage Dockerfiles, and Kubernetes deployment manifests—unifying framework setup, containerization, and cluster deployment into a single, error-free workflow.
 
 ####
-
-### [KubeSense](https://github.com/jay240322/KubeSense.git) :
-*   Developed an AI-powered Kubernetes diagnostic tool using Google Gemini LLM to analyze cluster errors and deliver automated root-cause analysis with actionable remediation steps. Built an interactive web dashboard for real-time diagnostic visualization, accelerating cluster issue identification and reducing troubleshooting overhead for DevOps workflows.
 
 ### [ci-cd-sandbox](https://github.com/jay240322/cicd-sandbox.git) :
 *  CI/CD Sandbox is a hands-on DevOps project created to demonstrate and experiment with modern Continuous Integration and Continuous Deployment (CI/CD) practices. The repository serves as a testing environment for building automated pipelines that streamline the software delivery lifecycle—from code commits to deployment.
